@@ -1,0 +1,35 @@
+{
+    "backendUrl": "http://localhost:3333/api",
+    "generatedRoutes": [
+        {
+            "file": "user.js",
+            "endpoint": "getAllUsers",
+            "id": "getAllUsers",
+            "method": "POST"
+        },
+        {
+            "file": "user.js",
+            "endpoint": "getUser",
+            "id": "getUser",
+            "method": "POST"
+        },
+        {
+            "file": "user.js",
+            "endpoint": "createUser",
+            "id": "createUser",
+            "method": "POST"
+        },
+        {
+            "file": "user.js",
+            "endpoint": "login",
+            "id": "login",
+            "method": "POST"
+        },
+        {
+            "file": "user.js",
+            "endpoint": "getCurrentUser",
+            "id": "getCurrentUser",
+            "method": "POST"
+        }
+    ]
+}

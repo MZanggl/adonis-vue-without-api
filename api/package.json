@@ -27,7 +27,9 @@
     "@adonisjs/session": "^1.0.29",
     "sqlite3": "^4.2.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "seamlessly": "0.0.2"
+  },
   "autoload": {
     "App": "./app"
   }
