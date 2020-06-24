@@ -4,9 +4,11 @@ Prototype 2 of an idea to unite frontend and backend seamlessly. First prototype
 
 ## Start the project
 
+Requires [adonis cli](https://adonisjs.com/docs/4.1/installation#_installing_adonisjs).
+
 ```bash
 cd ui && npm run serve
-cd api && adonis serve --dev # (requires adonis cli)
+cd api && adonis serve --dev
 ```
 
 ## The interesting bits
