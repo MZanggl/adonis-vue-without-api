@@ -1,14 +1,7 @@
 const User = use('App/Models/User')
 
 exports.getAllUsers = async function() {
-  const users = await User.all()
-
-  return users.rows.map(user => {
-    return {
-      id: user.id,
-      email: user.email
-    }
-  })
+  return User.all()
 }
 
 exports.getUser = async function(id) {
