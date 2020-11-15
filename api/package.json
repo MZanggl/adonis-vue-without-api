@@ -28,7 +28,7 @@
     "sqlite3": "^4.2.0"
   },
   "devDependencies": {
-    "seamlessly": "0.0.2"
+    "seamlessly": "0.0.9"
   },
   "autoload": {
     "App": "./app"

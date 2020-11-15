@@ -1,5 +1,6 @@
 {
-    "backendUrl": "http://localhost:3333/api",
+    "apiHost": "http://localhost:3333",
+    "apiPrefix": "api",
     "generatedRoutes": [
         {
             "file": "user.js",
